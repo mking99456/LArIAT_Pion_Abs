@@ -1,0 +1,6 @@
+#Charge exchange on Tin -- estimate from Jones -- assigning 50% unc
+#Phys Rev C, Vol 48 No 6 Pg 2800-2817
+#Data from table on pg 2815
+#KE (MeV)       XS (mb)       Err (mb)
+400       290       145
+500       550       225

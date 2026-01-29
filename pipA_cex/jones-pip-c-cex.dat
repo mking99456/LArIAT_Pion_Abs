@@ -1,0 +1,6 @@
+#Charge exchange on Carbon -- estimate from Jones -- assigning 50% unc
+#Phys Rev C, Vol 48 No 6 Pg 2800-2817
+#Data from table on pg 2815
+#KE (MeV)       XS (mb)       Err (mb)
+400       59       29.5
+500       91       45.5
